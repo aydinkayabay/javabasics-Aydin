@@ -11,6 +11,10 @@ public class MedhodTest {
 		obj.sayAnything("Bye",2);
 		
 		
+		obj.isItRaining(true);
+		obj.isItRaining(false);
+		
+		
 		
 		
 		
